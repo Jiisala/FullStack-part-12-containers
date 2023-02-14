@@ -1,0 +1,10 @@
+Script started on 2023-02-14 11:17:15+02:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="80" LINES="24"]
+[?2004h]0;iisala@lx1-fuxi295: ~/kurssit/FullStack_12_containers/part12-containers-applications/script-answers[01;32miisala@lx1-fuxi295[00m:[01;34m~/kurssit/FullStack_12_containers/part12-containers-applications/script-answers[00m$ exitdocker run -it ubuntu bash
+[?2004l[?2004h]0;root@978cf21ec023: /root@978cf21ec023:/# touch       mkr dir /usr/src/app
+[?2004l[?2004h]0;root@978cf21ec023: /root@978cf21ec023:/# touch usr/src/app/index.js
+[?2004l[?2004h]0;root@978cf21ec023: /root@978cf21ec023:/# [Kexit
+[?2004lexit
+[?2004h]0;iisala@lx1-fuxi295: ~/kurssit/FullStack_12_containers/part12-containers-applications/script-answers[01;32miisala@lx1-fuxi295[00m:[01;34m~/kurssit/FullStack_12_containers/part12-containers-applications/script-answers[00m$ exit
+[?2004lexit
+
+Script done on 2023-02-14 11:17:50+02:00 [COMMAND_EXIT_CODE="0"]
