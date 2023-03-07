@@ -57,7 +57,7 @@ singleRouter.put('/:id?', async (req, res) => {
   } catch (e){
     res.status(400).json({ error: e})
   }
-    }); // Implement this: DONE 
+    }); // Implement this: DONE, note to self, might be a good idea to revisit the using mongo part of the course 
 
 router.use('/:id', findByIdMiddleware, singleRouter)
 
